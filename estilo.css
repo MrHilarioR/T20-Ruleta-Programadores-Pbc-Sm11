@@ -1,0 +1,53 @@
+table{
+    background: #c6ffc1;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+}
+table p{
+    text-align: center;
+    font-size: 40px;
+    color: #34656d;
+    background: #fffbdf;
+    height: 55;
+    width: 800;
+}
+table td label{
+    color: #34656d;
+    font-size: 18px;
+}
+table td input {
+    height: 50;
+    width: 250;
+    background: #34656d;
+    color: white;
+    font-size: 17px;
+}
+img{
+    height: 200;
+    width: 200;
+}
+#titulo{
+    font-size: 50px;
+    color: #34656d;
+}
+#Contenido{
+    font-size: 25px;
+    text-align: center;
+    color: #34656d;
+}
+#Datos{
+    font-size: 35px;
+    color: #34656d;
+    text-align: center;
+}
+#Texto{
+    font-size: 20px;
+    color: #34656d;
+    text-align: center;
+    align-items: center;
+}
+#Yo{
+    height: auto;
+    width: 200;
+}
